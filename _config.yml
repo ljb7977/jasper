@@ -48,7 +48,7 @@ lsi: false
 username: ljb7977
 repo: ljb7977.github.io
 branch: master
-relative_source: ../
+# relative_source: ../
 # destination: ../jasper-pages/
 production_url:  https://ljb7977.github.io
 source_url:  https://github.com/ljb7977.github.io
