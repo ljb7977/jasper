@@ -4,7 +4,21 @@
     <title>Nowhere - Articles</title>
     <description>A beautiful narrative written with the world's most elegant publishing platform. The story begins here.</description>
     <link>
-    </link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Test</title>
+        
+          <description>&lt;p&gt;This is a test post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 02 Jun 2018 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/test</link>
+        <guid isPermaLink="true">http://localhost:4000/test</guid>
+      </item>
+      
     
       
       <item>
@@ -16,8 +30,8 @@
         
         <pubDate>Sat, 27 Sep 2014 19:18:00 +0900</pubDate>
         <link>
-        /a-full-and-comprehensive-style-test</link>
-        <guid isPermaLink="true">/a-full-and-comprehensive-style-test</guid>
+        http://localhost:4000/a-full-and-comprehensive-style-test</link>
+        <guid isPermaLink="true">http://localhost:4000/a-full-and-comprehensive-style-test</guid>
       </item>
       
     
@@ -31,8 +45,8 @@
         
         <pubDate>Tue, 12 Aug 2014 19:18:00 +0900</pubDate>
         <link>
-        /the-businessman-and-fisherman</link>
-        <guid isPermaLink="true">/the-businessman-and-fisherman</guid>
+        http://localhost:4000/the-businessman-and-fisherman</link>
+        <guid isPermaLink="true">http://localhost:4000/the-businessman-and-fisherman</guid>
       </item>
       
     
@@ -137,8 +151,8 @@
         
         <pubDate>Wed, 28 Aug 1963 19:18:00 +0900</pubDate>
         <link>
-        /i-have-a-dream</link>
-        <guid isPermaLink="true">/i-have-a-dream</guid>
+        http://localhost:4000/i-have-a-dream</link>
+        <guid isPermaLink="true">http://localhost:4000/i-have-a-dream</guid>
       </item>
       
     
@@ -152,8 +166,8 @@
         
         <pubDate>Sun, 12 Dec 1948 19:18:00 +0900</pubDate>
         <link>
-        /the-purpose-of-education</link>
-        <guid isPermaLink="true">/the-purpose-of-education</guid>
+        http://localhost:4000/the-purpose-of-education</link>
+        <guid isPermaLink="true">http://localhost:4000/the-purpose-of-education</guid>
       </item>
       
     
@@ -167,8 +181,8 @@
         
         <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
         <link>
-        /out-to-sea</link>
-        <guid isPermaLink="true">/out-to-sea</guid>
+        http://localhost:4000/out-to-sea</link>
+        <guid isPermaLink="true">http://localhost:4000/out-to-sea</guid>
       </item>
       
     
@@ -208,8 +222,8 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
         
         <pubDate>Sat, 18 Mar 1871 19:18:00 +0900</pubDate>
         <link>
-        /looking-glass-house</link>
-        <guid isPermaLink="true">/looking-glass-house</guid>
+        http://localhost:4000/looking-glass-house</link>
+        <guid isPermaLink="true">http://localhost:4000/looking-glass-house</guid>
       </item>
       
     
@@ -270,8 +284,8 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
         
         <pubDate>Sun, 26 Nov 1865 19:18:00 +0900</pubDate>
         <link>
-        /down-the-rabbit-hole</link>
-        <guid isPermaLink="true">/down-the-rabbit-hole</guid>
+        http://localhost:4000/down-the-rabbit-hole</link>
+        <guid isPermaLink="true">http://localhost:4000/down-the-rabbit-hole</guid>
       </item>
       
     
@@ -288,8 +302,8 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
         
         <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
         <link>
-        /gettysburg-address</link>
-        <guid isPermaLink="true">/gettysburg-address</guid>
+        http://localhost:4000/gettysburg-address</link>
+        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
       </item>
       
     
